@@ -18,19 +18,7 @@ But, given that there are over 100,000 incarcerated people in California, how do
 
 ## Our solution
 
-### Summary 
-
-A data model to determine eligibility for resentencing
-
-What it is:
-- A deterministic model with a rules-based framework established by legal experts and District Attorney offices
-- Easily interpretable and explainable
-- Responsive to user requests, i.e. an attorney can request changes to the eligibility criteria and see updated results
-- A tool that increases the efficiency and productivity of attorneys
-
-What it is not:
-- A blackbox prediction model
-- The decisionmaker for which cases are ultimately resentenced
+Repository and documentation here: https://github.com/redoio/three_strikes_project
 
 ## Opportunities
 
