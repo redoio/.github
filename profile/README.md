@@ -1,4 +1,4 @@
-# <img src= "https://github.com/redoio/.github/assets/124313756/055a1500-06f6-43eb-bb38-47da5ad19831" width = "20%" height = "20%">
+# <img src= "https://github.com/redoio/.github/assets/124313756/786fef93-1105-4c55-9096-b541b15a32f3" width = "8%" height = "8%"> <img src= "https://github.com/redoio/.github/assets/124313756/055a1500-06f6-43eb-bb38-47da5ad19831" width = "20%" height = "20%">
 
 A data science for social good non-profit building digital public goods for the carceral system. Our main project at the moment is the Sentencing Data Initiative, being developed for the Three Strikes Project at the Stanford School of Law. 
 
