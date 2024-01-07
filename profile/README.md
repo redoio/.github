@@ -1,4 +1,4 @@
-# Redo.io
+# <img src= "https://github.com/redoio/.github/assets/124313756/055a1500-06f6-43eb-bb38-47da5ad19831" width = "20%" height = "20%">
 
 A data science for social good non-profit building digital public goods for the carceral system. Our main project at the moment is the Sentencing Data Initiative, being developed for the Three Strikes Project at the Stanford School of Law. 
 
@@ -6,7 +6,7 @@ Note from Aparna (founder and lead data scientist): We have some exciting tools 
 
 # Sentencing Data Initiative
 
-<img src= "https://github.com/redoio/three_strikes_project/assets/124313756/9f54f1f8-e1ff-4ce3-a575-807187824d76" width = "35%" height = "35%">
+<img src= "https://github.com/redoio/three_strikes_project/assets/124313756/9f54f1f8-e1ff-4ce3-a575-807187824d76" width = "30%" height = "30%">
 
 A data analysis tool for the Three Strikes Project at the Stanford University School of Law that proactively and automatically identifies non-violent offendors in California's prison system who are eligible for re-sentencing. 
 
