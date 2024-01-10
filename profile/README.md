@@ -8,17 +8,17 @@ Note from Aparna (founder and lead data scientist): We have some exciting tools 
 
 <img src= "https://github.com/redoio/three_strikes_project/assets/124313756/9f54f1f8-e1ff-4ce3-a575-807187824d76" width = "30%" height = "30%">
 
-A data analysis tool for the Three Strikes Project at the Stanford University School of Law that proactively and automatically identifies non-violent offenders serving life sentences in California's prison system who are eligible for re-sentencing. 
+A data analysis tool for the Three Strikes Project at the Stanford University School of Law that identifies non-violent offenders serving life sentences in California's prison system who are eligible for resentencing. 
 
 ## Background
 
 The Three Strikes Project is legal clinical seminar where law students represent individuals serving life sentences for nonviolent crimes under California’s Three Strikes Law. Lawyers assist district attorney’s offices throughout the state who are seeking opportunities to safely and effectively reduce California’s prison population through Prosecutor-Initiated Resentencing. 
 
-But, given that there are over 100,000 incarcerated people in California, how can attorneys accurately identify the individuals who are eligible for resentencing without being bogged down with piles of paperwork to review? Redo.io is solving this problem through an open-source eligibility tool for attorneys to filter their case load and apply their expertise efficiently. 
+But, given that there are over 100,000 incarcerated people in California, how can attorneys accurately identify the individuals who are eligible for resentencing without being bogged down with piles of paperwork to review? Redo.io is solving this problem through an open-source eligibility tool for attorneys to filter their caseload and apply their expertise efficiently. 
 
 ## Our solution
 
-Repository and documentation here: https://github.com/redoio/three_strikes_project
+Code and documentation here: https://github.com/redoio/three_strikes_project
 
 ## Opportunities
 
