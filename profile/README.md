@@ -1,8 +1,8 @@
-# <img src= "https://github.com/redoio/.github/assets/124313756/786fef93-1105-4c55-9096-b541b15a32f3" width = "8%" height = "8%"> <img src= "https://github.com/redoio/.github/assets/124313756/055a1500-06f6-43eb-bb38-47da5ad19831" width = "20%" height = "20%">
+# <img src= "https://github.com/redoio/.github/assets/124313756/786fef93-1105-4c55-9096-b541b15a32f3" width = "8%" height = "8%"> <img src= "https://github.com/redoio/.github/assets/124313756/055a1500-06f6-43eb-bb38-47da5ad19831" width = "18%" height = "18%">
 
-A data science for social good non-profit developing digital public goods for the carceral system. Our core project at the moment is the Sentencing Data Initiative.
+A data science for social good non-profit developing digital public goods for the carceral system. Our core project at the moment is the Sentencing Data Initiative. 
 
-Note from Aparna (founder and lead data scientist): We have some exciting tools in the pipeline so be sure to check this site soon for updates and opportunities!
+Note from Aparna (founder and lead data scientist): We have some exciting projects in the pipeline so be sure to check this site soon for updates and opportunities!
 
 # Sentencing Data Initiative
 
@@ -10,17 +10,17 @@ Note from Aparna (founder and lead data scientist): We have some exciting tools 
 
 ## Goal 
 
-Our objective, in partnership with the Three Strikes Project at the Stanford University School of Law, is to identify non-violent offenders serving life sentences in California's prison system who are eligible for resentencing. 
+Our objective, in partnership with the Three Strikes Project at the Stanford University School of Law, is to identify nonviolent offenders serving life sentences in California's prison system who are eligible for resentencing. 
 
 ## Background
 
 The Three Strikes Project is legal clinical seminar where law students represent individuals serving life sentences for nonviolent crimes under California’s Three Strikes Law. Lawyers assist district attorney’s offices throughout the state who are seeking opportunities to safely and effectively reduce California’s prison population through Prosecutor Initiated Resentencing (PIR). 
 
-But, given that there are over 100,000 people in California's prisons, are there efficient and accurate ways for attorneys to identify those eligible for PIR that doesn't involve manually reviewing piles of paperwork? Redo.io is solving this problem with an open-source eligibility tool for attorneys to filter their caseload and apply their expertise efficiently. 
+But, given that there are over 100,000 people in California's prisons, lawyers need efficient and accurate ways to identify those who are eligible for PIR instead of having to manually review piles of paperwork. Redo.io is solving this problem with an open-source eligibility tool for lawyers to filter their caseload and apply their expertise efficiently. 
 
 ## Our solution
 
-We are developing a rules-based eligibility model with the principles of fairness, accountability and transparency, as well as a tool that attorneys can easily interact with and utilize to generate lists of eligible individuals.
+We are developing a rules-based eligibility model with the principles of fairness, accountability and transparency, as well as an application that lawyers can easily interact with and utilize to generate cohorts of eligible individuals.
 
 Code and documentation here: https://github.com/redoio/three_strikes_project
 
