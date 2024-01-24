@@ -14,9 +14,9 @@ Our objective, in partnership with the Three Strikes Project at the Stanford Uni
 
 ## Background
 
-The Three Strikes Project is legal clinical seminar where law students represent individuals serving life sentences for nonviolent crimes under California’s Three Strikes Law. Lawyers assist district attorney’s offices throughout the state who are seeking opportunities to safely and effectively reduce California’s prison population through Prosecutor-Initiated Resentencing. 
+The Three Strikes Project is legal clinical seminar where law students represent individuals serving life sentences for nonviolent crimes under California’s Three Strikes Law. Lawyers assist district attorney’s offices throughout the state who are seeking opportunities to safely and effectively reduce California’s prison population through Prosecutor Initiated Resentencing (PIR). 
 
-But, given that there are over 100,000 incarcerated people in California, how can attorneys accurately identify the individuals who are eligible for resentencing without being bogged down with piles of paperwork to review? Redo.io is solving this problem through an open-source eligibility tool for attorneys to filter their caseload and apply their expertise efficiently. 
+But, given that there are over 100,000 people in California's prisons, are there efficient and accurate ways for attorneys to identify those eligible for PIR that doesn't involve manually reviewing piles of paperwork? Redo.io is solving this problem with an open-source eligibility tool for attorneys to filter their caseload and apply their expertise efficiently. 
 
 ## Our solution
 
