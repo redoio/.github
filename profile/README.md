@@ -20,7 +20,7 @@ But, given that there are over 100,000 people in California's prisons, lawyers n
 
 ## Our solution
 
-We are designing a rules-based eligibility model with the principles of fairness, accountability and transparency, as well as a user interface for lawyers to generate cohorts of eligible individuals.
+We are designing a rules-based eligibility model that embodies the principles of fairness, accountability and transparency. Our goal is to promote justice and not exacerbate existing biases in our society. We are also building a user interface for lawyers to interact with the model and generate cohorts of eligible individuals.
 
 Code and documentation here: https://github.com/redoio/three_strikes_project
 
