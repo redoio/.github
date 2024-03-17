@@ -10,7 +10,7 @@ Note from Aparna (founder and lead data scientist): We have some exciting projec
 
 ## Goal 
 
-Our objective, in partnership with the Three Strikes Project at the Stanford University School of Law, is to identify nonviolent offenders serving life sentences in California's prison system who are eligible for resentencing. 
+Our objective, in partnership with the Three Strikes Project at the Stanford University School of Law, is to identify nonviolent offenders serving life sentences in California's prison system who may be eligible for resentencing under criminal justice reform laws. 
 
 ## Background
 
@@ -20,7 +20,7 @@ But, given that there are over 100,000 people in California's prisons, lawyers n
 
 ## Our solution
 
-We are designing a rules-based eligibility model that embodies the principles of fairness, accountability and transparency. Our goal is to promote justice and not exacerbate existing biases in our society. We are also building a user interface for lawyers to interact with the model and generate cohorts of eligible individuals.
+We are designing a rules-based and deterministic eligibility model that embodies the principles of fairness, accountability and transparency. Our goal is to promote justice and not exacerbate existing biases in our society. 
 
 Code and documentation here: https://github.com/redoio/three_strikes_project
 
