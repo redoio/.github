@@ -1,4 +1,4 @@
-# <img src= "https://github.com/redoio/.github/assets/124313756/786fef93-1105-4c55-9096-b541b15a32f3" width = "8%" height = "8%"> <img src= "https://github.com/redoio/.github/assets/124313756/055a1500-06f6-43eb-bb38-47da5ad19831" width = "18%" height = "18%">
+# <img src= "https://github.com/redoio/.github/assets/124313756/9a7fb218-364b-4de3-9b10-b598efcdda4b" width = "11%" height = "11%"> <img src= "https://github.com/redoio/.github/assets/124313756/055a1500-06f6-43eb-bb38-47da5ad19831" width = "18%" height = "18%">
 
 A data science for social good non-profit developing digital public goods for the carceral system. Our core project at the moment is the Sentencing Data Initiative. 
 
