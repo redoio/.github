@@ -1,4 +1,4 @@
-A data science for social good non-profit developing digital public goods for the carceral system. Our core effort is currently on the Resentencing Data Initiative. 
+A data science for social good non-profit developing digital public goods for the carceral system. Our core effort is the Resentencing Data Initiative, in partnership with the Three Strikes Project at Stanford Law.
 
 Note from Aparna (founder and lead data scientist): We have some exciting projects in the pipeline so be sure to check this site soon for updates and opportunities!
 
@@ -12,9 +12,9 @@ Identify nonviolent offenders serving life sentences in California's prison syst
 
 ## Background
 
-The Three Strikes Project at the Stanford School of Law is a legal clinical seminar where law students represent individuals serving life sentences for nonviolent crimes under California’s Three Strikes Law. Legal experts assist district attorney’s offices throughout the state who are seeking opportunities to safely and effectively reduce California’s prison population through Prosecutor Initiated Resentencing (PIR). 
+The Three Strikes Project at the Stanford University School of Law is a legal clinical seminar where law students represent individuals serving life sentences for nonviolent crimes under California’s Three Strikes Law. Legal experts assist district attorney’s offices throughout the state who are seeking opportunities to safely and effectively reduce California’s prison population through Prosecutor Initiated Resentencing (PIR). 
 
-But, given that there are over 100,000 people in California's prisons, lawyers need efficient and accurate ways to identify those who are eligible for PIR instead of manually reviewing piles of paperwork. Redo.io's open-source eligibility tool helps lawyers filter their caseload and apply their expertise efficiently. We are currently under a contract with the Stanford School of Law to develop this application. 
+But, given that there are over 100,000 people in California's prisons, lawyers need efficient and accurate ways to identify top candidates for PIR instead of manually reviewing piles of paperwork. Redo.io's open-source eligibility tool helps lawyers filter their caseload and apply their expertise efficiently. 
 
 ## Our solution
 
