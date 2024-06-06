@@ -20,8 +20,8 @@ But, given that there are over 100,000 individuals incarcerated in California's 
 ### Our solution
 
 A rules-based and deterministic eligibility model that:
-(a). Embodies the principles of fairness, accountability and transparency
-(b). Does not exacerbate existing biases (gender, race, age, etc.) in our society
+(a). Embodies the principles of fairness, accountability and transparency<br>
+(b). Does not exacerbate existing biases (gender, race, age, etc.) in our society<br>
 
 Our source code is fully public and available here: https://github.com/redoio/resentencing_data_initiative
 
