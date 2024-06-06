@@ -1,11 +1,11 @@
 A data science for social good non-profit developing digital public goods for the carceral system. Our core effort is the Resentencing Data Initiative, in partnership with the Three Strikes Project at Stanford Law in California, US.
 
-Note from Aparna (founder and lead data scientist): We have some exciting projects in the pipeline so be sure to check this site soon for new opportunities!
+We have some exciting projects in the pipeline so be sure to check this site soon for new opportunities!
 
 # Resentencing Data Initiative
 
 <!---<img src= "https://github.com/redoio/three_strikes_project/assets/124313756/9f54f1f8-e1ff-4ce3-a575-807187824d76" width = "30%" height = "30%">--->
-<img src= "https://github.com/redoio/.github/assets/124313756/9f405081-081a-4716-b8a6-f90f840fa8f5" width = "35%" height = "35%">
+<img src= "https://github.com/redoio/.github/assets/124313756/9f405081-081a-4716-b8a6-f90f840fa8f5" width = "45%" height = "45%">
 
 ### Goal 
 
