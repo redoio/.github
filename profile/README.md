@@ -23,7 +23,7 @@ A rules-based and deterministic eligibility model that:<br>
 (a). Embodies the principles of fairness, accountability and transparency<br>
 (b). Does not exacerbate existing biases (gender, race, age, etc.) in our society<br>
 
-Our source code is fully public and available here: https://github.com/redoio/resentencing_data_initiative. A sample dataset on the prison population acquired under the California Public Records Act is available here: https://github.com/redoio/prison_pop. 
+Our source code is mostly public and available here: https://github.com/redoio/resentencing_data_initiative. A sample dataset on the prison population acquired under the California Public Records Act is available here: https://github.com/redoio/prison_pop. 
 
 ## Opportunities
 
