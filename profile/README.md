@@ -1,4 +1,4 @@
-A data science for social good non-profit developing digital public goods for the carceral system. Our core effort is the Resentencing Data Initiative, in partnership with the Three Strikes Project at Stanford Law in California, US.
+A data science for social good non-profit developing digital public goods for the carceral system (www.redoio.info). Our core effort is the Resentencing Data Initiative, in partnership with the Three Strikes Project at Stanford Law in California, US.
 
 We have some exciting projects in the pipeline so be sure to check this site soon for new opportunities!
 
@@ -23,7 +23,7 @@ A rules-based and deterministic eligibility model that:<br>
 (a). Embodies the principles of fairness, accountability and transparency<br>
 (b). Does not exacerbate existing biases (gender, race, age, etc.) in our society<br>
 
-Our source code is mostly public and available here: https://github.com/redoio/resentencing_data_initiative. A sample dataset on the prison population acquired under the California Public Records Act is available here: https://github.com/redoio/prison_pop. 
+Our source code is mostly public and available here: https://github.com/redoio/resentencing_data_initiative. A sample dataset on the prison population acquired under the California Public Records Act is available here: https://github.com/redoio/offenses_data. 
 
 ## Opportunities
 
