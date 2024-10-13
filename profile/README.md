@@ -10,11 +10,9 @@ Redo.io is supported by the Justice Technology Association and LexLab at UC Law 
 # Resentencing Data Initiative
 
 <!---<img src= "https://github.com/redoio/three_strikes_project/assets/124313756/9f54f1f8-e1ff-4ce3-a575-807187824d76" width = "20%" height = "20%">--->
-<!---<img src= "https://github.com/redoio/.github/assets/124313756/9f405081-081a-4716-b8a6-f90f840fa8f5" width = "25%" height = "15%">--->
+<!---<img src= "https://github.com/redoio/.github/assets/124313756/9f405081-081a-4716-b8a6-f90f840fa8f5" width = "25%" height = "15%">---> 
 
-### Goal 
-
-Identify nonviolent offenders serving life sentences in California's prison system who are eligible for resentencing under criminal justice reform laws. 
+Our objective is to help identify nonviolent offenders serving life sentences in California's prison system who are eligible for resentencing under criminal justice reform laws. 
 
 ### Background
 
