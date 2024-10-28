@@ -1,6 +1,6 @@
 We build data science tools and open databases for criminal justice reform. We are a technology non-profit organization registered in California, US (pending 501(c)(3) status). 
 
-Redo.io is supported by the Justice Technology Association and LexLab at UC Law San Francisco. We are one of eight startups in LexLab's 2024 justice tech startup accelarator program (https://lexlab.uclawsf.edu/2024-09-13).
+Redo.io is supported by the Justice Technology Association and LexLab at UC Law San Francisco. We are one of eight startups in LexLab's 2024 justice tech startup accelerator program (https://lexlab.uclawsf.edu/2024-09-13).
 
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/625cc90e-84bf-4cc3-816d-fcea3d12ec2a" width = "15%" height = "5%">
