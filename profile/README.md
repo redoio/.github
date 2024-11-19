@@ -1,9 +1,9 @@
 We build data science tools and open databases for criminal justice reform. We are a technology non-profit organization registered in California, US (pending 501(c)(3) status). 
 
 Redo.io is supported by the Justice Technology Association and LexLab at UC Law San Francisco. We are one of eight startups in LexLab's 2024 justice tech startup accelerator program (https://lexlab.uclawsf.edu/2024-09-13).
-
-<img src= "https://github.com/user-attachments/assets/b322ea29-beb8-40f2-a63a-2aedbf9251a0" width = "25%" height = "15%">
 </p>
+<img src= "https://github.com/user-attachments/assets/e8437ccf-4ee1-49c9-b227-0e34837b401e" width = "25%" height = "15%">
+
 
 # Resentencing Data Initiative
 
